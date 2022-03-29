@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-[![EricGao888's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricGao888&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricGao888)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricGao888&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricGao888&layout=compact&langs_count=8&theme=vue"/>
+</p>
 
 <!--
 **EricGao888/EricGao888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
