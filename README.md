@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![EricGao888's GitHub stats](https://github-readme-stats.vercel.app/api?username=EricGao888)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **EricGao888/EricGao888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
