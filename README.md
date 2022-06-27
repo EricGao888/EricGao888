@@ -1,9 +1,10 @@
-### Hi there 👋
-
 <div align="center">
+
+  ### Hi there 👋
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EricGao888&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricGao888&layout=compact&langs_count=8&theme=radical"/>
-</p>
+</div>
 
 - 🔭 I’m currently working on Apache DolphinScheduler.
 - 🌱 I’m currently learning K8S & Spring Boot.
