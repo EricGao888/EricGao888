@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricGao888&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-- 🔭 I’m currently working on Apache DolphinScheduler.
+- 🔭 I’m currently working on Apache DolphinScheduler after hours.
 - 🌱 I’m currently learning K8S & Spring Boot.
 - 👯 I’m looking to collaborate on interesting open-souce projects, especially those with friendly and responsive community.
 - 🤔 I’m looking for help with ... emmmmm, I'd love to keep improving oral English.
