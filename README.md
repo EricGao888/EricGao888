@@ -8,8 +8,12 @@
   
 </div>
 
-- 🔭 I’m currently working on Apache DolphinScheduler after hours.
+- 🔭 I’m currently interested in big data orchestration platforms.
+
+<!---
 - 👯 I’m looking to collaborate on interesting open-souce projects, especially those with friendly and responsive community.
+-->
+
 - 💬 Ask me about anything except politics / religions, but I may not have enough knowledge to give an answer. :rofl:
 - 📫 How to reach me: Email me or try to figure out my WeChat number. :wink:
 - 😄 Pronouns: He
