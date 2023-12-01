@@ -9,9 +9,6 @@
 </div>
 
 - 🔭 I’m currently interested in big data orchestration platforms.
-<!---
-- 👯 I’m looking to collaborate on interesting open-souce projects, especially those with friendly and responsive community.
--->
 - 💬 Ask me about anything except politics / religions, but I may not have enough knowledge to give an answer. :rofl:
 - 📫 How to reach me: Email me or try to figure out my WeChat number. :wink:
 - 😄 Pronouns: He
@@ -20,6 +17,9 @@
 -->
 <!---
 - 🤔 I’m looking for help with 
+-->
+<!---
+- 👯 I’m looking to collaborate on interesting open-souce projects, especially those with friendly and responsive community.
 -->
 <!---
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricGao888&layout=compact&langs_count=8&theme=radical"/>
