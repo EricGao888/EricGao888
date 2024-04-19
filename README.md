@@ -8,10 +8,12 @@
   
 </div>
 
-- 🔭 I’m currently interested in big data orchestration platforms.
+- 🔭 I’m currently learning apache spark ...
+<!---
 - 💬 Ask me about anything except politics / religions, but I may not have enough knowledge to give an answer. :rofl:
 - 📫 How to reach me: Email me or try to figure out my WeChat number. :wink:
 - 😄 Pronouns: He
+-->
 <!---
 - ⚡ Fun fact: 
 -->
