@@ -4,11 +4,15 @@
 
   ### Eric Says Hi 👋
   
+  <a><img height="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EricGao888&theme=github" /></a>
+
+  <!---
   <img height="300em" src="https://github-readme-stats.vercel.app/api?username=EricGao888&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  -->
   
 </div>
 
-- 🔭 I’m currently learning apache spark ...
+- 🔭 I’m currently learning ***Apache Spark*** ...
 <!---
 - 💬 Ask me about anything except politics / religions, but I may not have enough knowledge to give an answer. :rofl:
 - 📫 How to reach me: Email me or try to figure out my WeChat number. :wink:
