@@ -13,9 +13,9 @@
 </div>
 
 - 🎤 My tech talks on *Apache DolphinScheduler*:
-  - [Apache DolphinScheduler + Notebooks](https://www.bilibili.com/video/BV1KW4y1r7tB/?spm_id_from=333.337.search-card.all.click) , *ApacheCon Asia 2022*
-  - [Apache DolphinScheduler Metrics System](https://www.bilibili.com/video/BV12k4y1F7Mc/?spm_id_from=333.337.search-card.all.click) , *ApacheCon Asia 2023*
   - [Every Detail of Cross-Dag Dependencies](https://www.bilibili.com/video/BV1BqeEeFEbb/?spm_id_from=333.337.search-card.all.click) , *ApacheCon(CoC) Asia 2024*
+  - [Apache DolphinScheduler Metrics System](https://www.bilibili.com/video/BV12k4y1F7Mc/?spm_id_from=333.337.search-card.all.click) , *ApacheCon Asia 2023*
+  - [Apache DolphinScheduler + Notebooks](https://www.bilibili.com/video/BV1KW4y1r7tB/?spm_id_from=333.337.search-card.all.click) , *ApacheCon Asia 2022*
 
 - 🔭 Currently I'm learning *Apache Spark*.
 
